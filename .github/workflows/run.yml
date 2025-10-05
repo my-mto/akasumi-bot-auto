@@ -1,0 +1,5 @@
+name: Run every minute
+
+on:
+  schedule:
+    - cron: "*/1 * * * *"  #
